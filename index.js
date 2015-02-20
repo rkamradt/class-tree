@@ -35,7 +35,7 @@ module.exports = function() {
           return this.data[member];
         },
         'add': function(member, tree) {
-          this.count++;
+          this.count++; 
           this.data[member] = tree.newNode();
         },
         'levelCount': function() {
