@@ -6,7 +6,7 @@
  */
 var should = require('should');
 var fs = require('fs');
-var sut = require('./index.js')();
+var sut = require('./index.js')(); // the subject under test
 
 describe('Process input file', function() {
   describe('Parse input file', function() {
