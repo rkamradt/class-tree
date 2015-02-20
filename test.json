@@ -1,0 +1,14 @@
+{
+  "data": [
+    "dog>large>great dane",
+    "dog>large>standard poodle",
+    "dog>small>beagle",
+    "dog>small>shitzu",
+    "dog>small>chihuahua",
+    "cat>short hair>calico",
+    "cat>short hair>tuxedo",
+    "cat>short hair>siamese",
+    "cat>long hair>persian",
+    "cat>long hair>rag doll"
+  ]
+}
